@@ -76,20 +76,5 @@
 
 <img src="https://raw.githubusercontent.com/Ferdous725890/Ferdous725890/output/snake.svg" alt="Snake animation" />
 
-###
 
-<p align="left">Hello World!!</p>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
