@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="1280" src="https://raw.githubusercontent.com/Ferdous725890/Ferdous725890/refs/heads/main/Your%20paragraph%20text.png" />
+  <img height="400" width="1280" src="https://raw.githubusercontent.com/Ferdous725890/Ferdous725890/refs/heads/main/I%20am%20always%20trying%20to%20learn%20and%20grow.%20%F0%9F%8C%B1.png" />
   <div>
     <a style="margin-left: 5px;" href="https://www.facebook.com/">Facebook</a>
     <a href="https://www.linkedin.com/">LinkedIn</a>
