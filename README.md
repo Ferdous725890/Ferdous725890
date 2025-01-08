@@ -1,6 +1,6 @@
 <div align="center">
   <img height="400" width='1280' src="https://raw.githubusercontent.com/Ferdous725890/Ferdous725890/refs/heads/main/Your%20paragraph%20text.png"  />
- <div>  <a href='https://www.facebook.com/'>facebook</a>
+ <div  >  <a margin='left-5' href='https://www.facebook.com/'>facebook</a>
   <a href='https://www.facebook.com/'>Linkedin</a> </div>
   
 </div>
