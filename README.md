@@ -1,84 +1,110 @@
-<div align="center">
-  <img height="400" width="" src="https://i.ibb.co.com/20krCcS2/1.jpg" />
-  <div>
-    <a style="margin-left: 5px;" href="https://www.facebook.com/">Facebook</a>
-    <a href="https://www.linkedin.com/">LinkedIn</a>
-  </div>
-</div>
-
-###
-
-<h2 align="left">Hi 👋! I am Ferdous</h2>
-
-###
-
-<p align="center">Frontend Developer | React & Tailwind CSS Enthusiast | Building sleek, responsive web apps 🚀</p>
-
-###
-
-<h4 align="center">About Me:</h4>
-
-###
-
-<p align="left">I’m a passionate Frontend Developer and an aspiring Full-Stack Developer focused on crafting impactful and user-friendly web applications. 🌟<br><br>Currently, I’m deepening my skills in React, Node.js, and MongoDB, aiming to build seamless and dynamic full-stack solutions. I thrive on learning new tools and technologies, always staying curious and motivated to grow as a developer.<br><br>✨ My goal is to design and develop beautiful, responsive, and functional websites that leave a lasting impression. Let’s bring ideas to life together! 🚀</p>
-
-###
-
-<h4 align="left">Currently Learning:<br>📚 Exploring React, Node.js, and MongoDB to master Full-Stack Development<br>🎯 Goals: Build seamless, dynamic, and impactful full-stack applications<br>🎲 Fun Fact: I debug more than I code, but hey, that’s how I learn best! 😄</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ferdous725890&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferdous725890&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
- 
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <a href="mailto:ferdous725890@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+<!-- Header Section -->
+<p align="center">
+  <a href="https://tariqul.vercel.app/">
+    <img src="https://github.com/tariqul420/tariqul420/blob/main/github-banner.png" alt="Tariqul Islam - Front-end Developer" width="100%">
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</p>
+
+<!-- Welcome Text -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tariqul+Islam!;" />
+</h1>
+
+<!-- Heading -->
+<h3 align="center">
+  A passionate frontend developer from Bangladesh.
+</h3>
+
+<br/>
+<hr/>
+
+<!-- About Me -->
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+<p align="center">Hello! I'm Tariqul Islam, a passionate and dedicated Front-end developer with a knack for creating visually appealing, responsive, and dynamic web applications. With expertise in modern front-end technologies like React, Tailwind CSS, Shadcn/ui, keep React & others UI components, I strive to deliver seamless user experiences. On the backend, I leverage Node.js, Express.js, JWT, Cors and MongoDB to build robust and scalable applications.</p>
+
+<br>
+<hr/>
+<!-- Contact Section -->
+<h2 align="center">💌 Contact Me 💌</h2>
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/tariqul420" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tariqul.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wakatime.com/@tariqul420" target="_blank">
+    <img src="https://img.shields.io/badge/Wakatime-333333?style=for-the-badge&logo=wakatime&logoColor=white" alt="Wakatime" />
+  </a>
 </div>
 
-###
+<br/>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<div align="center"> 
+  <a href="https://www.facebook.com/tariqul.islam.fb" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://discord.com/users/tariqul_420" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
 
-###
+<br/>
 
-<br clear="both">
+<div align="center"> 
+    <a href="https://wa.me/8801743892058" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
 
-<img src="https://raw.githubusercontent.com/Ferdous725890/Ferdous725890/output/snake.svg" alt="Snake animation" />
+<hr/>
 
-###
+<!-- Languages & Frameworks -->
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,mui,javascript,typescript" alt="Frontend Skills" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,mongodb,expressjs" alt="Backend & Tools" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=npm,bun,github,git,vscode,figma" alt="Backend & Tools" />
+    <br>
+</div>
 
+<br/>
+<hr/>
+
+<!-- My Contributions -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tariqul420/tariqul420/refs/heads/output/github-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<!-- Stats Section -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+  <a href="https://wakatime.com/@27c85e42-a650-4900-abe6-fdef568a986e"><img src="https://wakatime.com/badge/user/27c85e42-a650-4900-abe6-fdef568a986e.svg" alt="Total time coded since Jul 10 2024" /></a>
+</div>
+
+<br>
+
+<div align="center">
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul420&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=tariqul420&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tariqul420&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide=html,css" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<!-- Thanks Text -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+💌;+Thanks+For+Watching!;" />
+</h1>
