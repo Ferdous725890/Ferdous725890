@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="1280" src="https://i.ibb.co.com/20krCcS2/1.jpg" />
+  <img height="400" width="" src="https://i.ibb.co.com/20krCcS2/1.jpg" />
   <div>
     <a style="margin-left: 5px;" href="https://www.facebook.com/">Facebook</a>
     <a href="https://www.linkedin.com/">LinkedIn</a>
