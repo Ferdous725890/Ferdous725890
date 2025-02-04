@@ -60,6 +60,7 @@
   <ul align="center">
     <summary><h2 style="display: inline-block"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px >  Connect With Me <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px > </h2></summary>
   </ul>
+  
 </div>
 
 
