@@ -40,9 +40,10 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,discord,mongodb,express,figma,firebase,github,js,materialui,mongodb,nextjs,nodejs,postman,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,discord,mongodb,express,figma,firebase,github,js,materialui,mongodb,nextjs,nodejs,postman,react,tailwind,vscode&perline=9" />
   </a>
 </p>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -79,50 +80,28 @@
 
 
 <br/>
-<hr/>
 
 <!-- About Me -->
 
-
-
 <br>
-<hr/>
-<!-- Contact Section -->
-
-
-
 
 <br/>
 
-
-
-<hr/>
-
-<!-- Languages & Frameworks -->
-
-
 <br/>
-<hr/>
+
 
 <!-- My Contributions -->
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <p>🐍 My Contributions 🐍</p>
+<p align="center">
+  <img width="90%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tariqul420/tariqul420/refs/heads/output/github-snake.svg" />
   <br/><br/><br/>
 </div>
 
-<hr/>
-
 <!-- Stats Section -->
 
-<br>
 
 
-
-<br/><br/>
-
-<hr/>
-
-<!-- Thanks Text -->
 
