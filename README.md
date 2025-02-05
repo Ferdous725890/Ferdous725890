@@ -5,15 +5,19 @@
   </a>
 </p>
 <!-- about me  start -->
+<div id="user-content-toc">
  <ul align="center" >
     <summary><h3 style="display: inline-block">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px >  💻 **Frontend Developer** | Passionate about building interactive & responsive web applications   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px > </h3></summary>
   </ul>
+</div>
 
+
+<div id="user-content-toc">
   <br>
  <ul align="center" >
     <summary><h3 style="display: inline-block">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px > About Me<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px > </h3></summary>
   </ul>
-
+</div>
 
   <p>
 Hi, I'm Md Ferdous Hossen, a passionate Frontend Developer with expertise in building interactive and responsive web applications. I specialize in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and Firebase, among other modern web technologies.With a strong foundation in frontend development, I focus on creating user-friendly, visually appealing, and high-performance applications. I enjoy solving complex problems, learning new technologies, and staying up-to-date with industry trends.I'm always eager to take on new challenges and collaborate on exciting projects. Let's build something amazing together! 🚀
