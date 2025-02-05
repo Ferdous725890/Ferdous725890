@@ -5,11 +5,20 @@
   </a>
 </p>
 <!-- about me  start -->
+
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 <div id="user-content-toc">
  <ul align="center" >
     <summary><h3 style="display: inline-block">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px >  💻 **Frontend Developer** | Passionate about building interactive & responsive web applications   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px > </h3></summary>
   </ul>
 </div>
+
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 
 <div id="user-content-toc">
