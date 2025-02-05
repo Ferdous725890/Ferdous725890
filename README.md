@@ -24,7 +24,7 @@
 <div id="user-content-toc">
   <br>
  <ul align="center" >
-    <summary><h3 style="display: inline-block">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px > About Me<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px > </h3></summary>
+    <summary><h2 style="display: inline-block">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px > About Me<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px > </h2></summary>
   </ul>
 </div>
 
