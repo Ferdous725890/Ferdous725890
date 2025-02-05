@@ -44,10 +44,19 @@ Hi, I'm Md Ferdous Hossen, a passionate Frontend Developer with expertise in bui
 
   <br>
 <!-- about me  end  -->
+<!-- 🔥 Current Activities  start-->
+<h3 align="center">🔥 Current Activities 🔥</h3>
+
+- 🚀 Exploring **Next.js** for advanced web development  
+- 💾 Working with **MongoDB** for backend data management  
+- ✨ Learning **TypeScript** to write better, scalable code  
+- ⚡ Improving my **JavaScript** skills for frontend & backend development  
+
+<!-- 🔥 Current Activities  end-->
 
 
 
-
+<br>
 
 
 
